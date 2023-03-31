@@ -88,7 +88,8 @@ nav.menu ul li a {
     border-top: 1px solid #ffffffdf;
     padding: 2px;
     display: none !important;
-  
+    z-index: 1;
+    position: relative;
 }
   .search-input {
     width: 86%;
