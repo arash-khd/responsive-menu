@@ -43,7 +43,7 @@ body{
     width: 25px;
 }
 .menu {
-    width: 330px;
+    width: 290px;
     height: 100%;
     background: #010121;
   position:absolute;
@@ -58,7 +58,7 @@ nav.menu ul li a {
     display: block;
     padding: 20px;
     border-bottom: 1px solid #ffffffdf;
-    font-size: 15px;
+    font-size: 14px;
 
 }
 /*nav.menu ul li a:first-child{ }*/
